@@ -1,0 +1,40 @@
+.speedometer-container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.speedometer {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border: 10px solid #007bff;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.needle {
+    position: absolute;
+    width: 2px;
+    height: 100px;
+    background-color: red;
+    transform-origin: bottom;
+    transform: rotate(0deg);
+    transition: transform 0.5s ease-out;
+}
+
+.speed-label {
+    position: absolute;
+    bottom: 20px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.circle-label {
+    position: absolute;
+    bottom: 5px;
+    font-size: 16px;
+    color: #007bff;
+}
