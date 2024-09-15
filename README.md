@@ -83,6 +83,11 @@ speed-test-app/
 
 <!-- Add your screenshots here -->
 
+<img width="1440" alt="Screenshot 2024-09-15 at 8 01 30 PM" src="https://github.com/user-attachments/assets/00eed8e0-c7ce-4b25-8993-a2829bb14849">
+
+
+<img width="1440" alt="Screenshot 2024-09-15 at 8 16 15 PM" src="https://github.com/user-attachments/assets/fd7e3ec5-2fbb-46a1-b69f-7b43538342c6">
+
 ## Contributing
 
 Feel free to fork the repository and submit pull requests for improvements or bug fixes. Please follow the existing code style and ensure that any new code is well-documented.
