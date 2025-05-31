@@ -30,8 +30,8 @@ This project is a speed test application built using Flask for the backend, with
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/speed-test-app.git
-cd speed-test-app
+git clone https://github.com/mtptisid/SpeedTest_with_Flask.git
+cd SpeedTest_with_Flask
 ```
 
 ### Install Dependencies
