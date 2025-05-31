@@ -93,10 +93,6 @@ speed-test-app/
 
 Feel free to fork the repository and submit pull requests for improvements or bug fixes. Please follow the existing code style and ensure that any new code is well-documented.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For any questions or feedback, please contact [Siddharamyya M](mailto:your.email@example.com).
